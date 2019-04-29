@@ -1,0 +1,13 @@
+{
+"companyName": "Yanghoejin",
+"productName": "EveryoneHasToDie",
+"dataUrl": "190428.data.unityweb",
+"wasmCodeUrl": "190428.wasm.code.unityweb",
+"wasmFrameworkUrl": "190428.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
